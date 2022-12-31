@@ -1,0 +1,43 @@
+body
+{
+    margin: 0;
+    padding: 15px;
+    min-width: 400px;
+}
+#input-el
+{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    border: 1px solid #5f9341;
+    font-size: medium;
+}
+button
+{
+    background-color: #5f9341;
+    color: #ffff;
+    padding: 7px 14px;
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: medium;
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+}
+#ul-el
+{
+    padding: 0;
+}
+#ul-el li
+{
+    margin: 5px;
+}
+#ul-el li a
+{
+    color: #5f9341;
+    font-size: medium;
+}
+#delete-btn
+{
+    background-color: #fff;
+    color: #5f9341;
+}
